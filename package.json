@@ -1,0 +1,23 @@
+{
+  "name": "realtor-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scaredofseagles/realtor-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scaredofseagles/realtor-bot/issues"
+  },
+  "homepage": "https://github.com/scaredofseagles/realtor-bot#readme",
+  "dependencies": {
+    "puppeteer": "^8.0.0",
+    "puppeteer-core": "^8.0.0"
+  }
+}
